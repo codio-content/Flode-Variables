@@ -79,7 +79,7 @@
      "action": "close"
     }
    ],
-   "layout": "2-panels",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Naming-your-variables-972f.md",
@@ -95,12 +95,12 @@
      "action": "close"
     },
     {
-     "path": "epxeriment.flode",
+     "path": "experiment.flode",
      "panel": 0,
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Experiment-4f1c.md",
