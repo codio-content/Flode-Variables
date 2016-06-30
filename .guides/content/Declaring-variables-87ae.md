@@ -1,1 +1,0 @@
-For anyone who already knows about variables. 
