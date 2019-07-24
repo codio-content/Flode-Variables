@@ -1,0 +1,43 @@
+{
+ "name": "Flode-Variables",
+ "children": [
+  {
+   "title": "Variables",
+   "id": "8293795b-2b06-41f7-edf8-22b5a93eb630",
+   "pageId": "8293795b-2b06-41f7-edf8-22b5a93eb630",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Preparation video",
+     "id": "313856c-dd40-b634-bf36-1f54a2b3e388",
+     "pageId": "313856c-dd40-b634-bf36-1f54a2b3e388",
+     "type": "page"
+    },
+    {
+     "title": "Variables explained",
+     "id": "65655ea5-e4cb-eb43-a7bb-7513ae4fa027",
+     "pageId": "65655ea5-e4cb-eb43-a7bb-7513ae4fa027",
+     "type": "page"
+    },
+    {
+     "title": "When should I use variables?",
+     "id": "e7496b54-55b9-8905-55bb-1e0c48be3de8",
+     "pageId": "e7496b54-55b9-8905-55bb-1e0c48be3de8",
+     "type": "page"
+    },
+    {
+     "title": "Naming your variables",
+     "id": "972f251-4e66-9477-6ab3-f3c2e6b62943",
+     "pageId": "972f251-4e66-9477-6ab3-f3c2e6b62943",
+     "type": "page"
+    },
+    {
+     "title": "Experiment",
+     "id": "4f1cbd52-daff-7a7-3002-2ef7c557a24d",
+     "pageId": "4f1cbd52-daff-7a7-3002-2ef7c557a24d",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
